@@ -1,0 +1,17 @@
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\bin\Debug\net6.0-windows\restaurant_odev.exe
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\bin\Debug\net6.0-windows\restaurant_odev.deps.json
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\bin\Debug\net6.0-windows\restaurant_odev.runtimeconfig.json
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\bin\Debug\net6.0-windows\restaurant_odev.dll
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\bin\Debug\net6.0-windows\restaurant_odev.pdb
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\obj\Debug\net6.0-windows\restaurant_odev.csproj.AssemblyReference.cache
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\obj\Debug\net6.0-windows\restaurant_odev.Form1.resources
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\obj\Debug\net6.0-windows\restaurant_odev.csproj.GenerateResource.cache
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\obj\Debug\net6.0-windows\restaurant_odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\obj\Debug\net6.0-windows\restaurant_odev.AssemblyInfoInputs.cache
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\obj\Debug\net6.0-windows\restaurant_odev.AssemblyInfo.cs
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\obj\Debug\net6.0-windows\restaurant_odev.csproj.CoreCompileInputs.cache
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\obj\Debug\net6.0-windows\restaurant_odev.dll
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\obj\Debug\net6.0-windows\refint\restaurant_odev.dll
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\obj\Debug\net6.0-windows\restaurant_odev.pdb
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\obj\Debug\net6.0-windows\restaurant_odev.genruntimeconfig.cache
+C:\Users\cemilenur\OneDrive\Masaüstü\models\restaurant_odev\obj\Debug\net6.0-windows\ref\restaurant_odev.dll
